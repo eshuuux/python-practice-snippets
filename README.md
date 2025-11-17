@@ -21,15 +21,25 @@ Folder Structure (Planned)
 ---------------------
 
 python-daily-codes/
+
 │── basics/
+
 │── strings/
+
 │── lists/
+
 │── automation/
+
 │── file_handling/
+
 │── mini_projects/
+
 │── dsa_problems/
+
 │── api_scripts/
+
 │── utilities/
+
 └── README.md
 
 ---------------------
