@@ -5,10 +5,15 @@ Welcome to Python Daily Codes — a collection of Python programs I write daily 
 This repository includes:
 
 • Everyday useful Python programs
+
 • Practice problems and coding exercises
+
 • Automation and productivity scripts
+
 • Algorithms and DSA problems
+
 • Mini projects and experiments
+
 • Real-life utility scripts
 
 ---------------------
